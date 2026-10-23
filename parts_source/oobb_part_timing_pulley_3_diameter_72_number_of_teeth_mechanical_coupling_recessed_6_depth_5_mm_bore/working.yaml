@@ -1,0 +1,299 @@
+allen_key_access_diameter: 4
+assembled_dimensions:
+  additional_tooth_depth: 0.0
+  additional_tooth_width: 0.2
+  allen_key_access_diameter: 4.0
+  allen_key_access_z: 0.75
+  assembled_depth: 8.5
+  bearing_axial_clearance: 0.2
+  bearing_radial_clearance: 0.15
+  belt_bottom: -3.25
+  belt_center: 0
+  belt_depth: 6.5
+  belt_top: 3.25
+  bottom: -4.25
+  centre_hole_diameter: 10.4
+  centre_keepout: 5.2
+  coupler:
+    bore: 5.0
+    count_screw_hole: 4.0
+    diameter_baseplate: 22.0
+    diameter_cylindrical: 10.0
+    diameter_screw_grub: 3.0
+    diameter_screw_hole: 3.0
+    dimension_d: 7.5
+    distance_diagonal_screw_hole: 16.0
+    flange_thickness: 2.0
+    height_cylindrical: 10.0
+    height_total: 12.0
+  coupler_axial_clearance: 0.2
+  coupler_bottom: -6.25
+  coupler_fastener_depth: 13.5
+  coupler_fastener_nut_bottom: -9.25
+  coupler_flange_center: -5.25
+  coupler_flange_recess_depth: 0
+  coupler_flange_top: -4.25
+  coupler_grub_screw_from_flange: 5.0
+  coupler_mount_rotation: 45.0
+  coupler_radial_clearance: 0.2
+  coupler_shaft_bore_diameter: 5.0
+  coupler_top: 5.75
+  depth: 6.0
+  flange_depth: 1.0
+  flange_radius: 23.664311805232927
+  joining_head_radius: 3.6
+  joining_positions:
+  - - 5.656854249492381
+    - 5.656854249492381
+  - - -5.65685424949238
+    - 5.656854249492381
+  - - -5.6568542494923815
+    - -5.65685424949238
+  - - 5.656854249492379
+    - -5.6568542494923815
+  joining_rotation: 45.0
+  layout: print
+  lower_half_depth: 5.0
+  minimum_web: 1.0
+  mounting_head_radius: 3.6
+  mounting_positions:
+  - - 5.656854249492381
+    - 5.656854249492381
+  - - -5.65685424949238
+    - 5.656854249492381
+  - - -5.6568542494923815
+    - -5.65685424949238
+  - - 5.656854249492379
+    - -5.6568542494923815
+  mounting_radius_name: m3
+  number_of_teeth: 72
+  oobb_hole_minimum_web: 0.3
+  oobb_hole_positions:
+  - position:
+    - -15.0
+    - -7.5
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - -15.0
+    - 0.0
+    radius: 3.25
+    radius_name: m6
+  - position:
+    - -15.0
+    - 7.5
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - -7.5
+    - -15.0
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - -7.5
+    - 15.0
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - 0.0
+    - -15.0
+    radius: 3.25
+    radius_name: m6
+  - position:
+    - 7.5
+    - -15.0
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - 7.5
+    - 15.0
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - 15.0
+    - -7.5
+    radius: 1.8
+    radius_name: m3
+  - position:
+    - 15.0
+    - 7.5
+    radius: 1.8
+    radius_name: m3
+  oobb_holes: true
+  oobb_holes_excluded:
+  - position:
+    - -15.0
+    - -15.0
+    radius: 3.25
+    radius_name: m6
+    reason: tooth_root
+  - position:
+    - -15.0
+    - 15.0
+    radius: 3.25
+    radius_name: m6
+    reason: tooth_root
+  - position:
+    - -7.5
+    - -7.5
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - -7.5
+    - 0.0
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - -7.5
+    - 7.5
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - 0.0
+    - -7.5
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - 0.0
+    - 7.5
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - 0.0
+    - 15.0
+    radius: 3.25
+    radius_name: m6
+    reason: allen_key_window
+  - position:
+    - 7.5
+    - -7.5
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - 7.5
+    - 0.0
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - 7.5
+    - 7.5
+    radius: 1.8
+    radius_name: m3
+    reason: centre_feature
+  - position:
+    - 15.0
+    - -15.0
+    radius: 3.25
+    radius_name: m6
+    reason: tooth_root
+  - position:
+    - 15.0
+    - 0.0
+    radius: 3.25
+    radius_name: m6
+    reason: allen_key_window
+  - position:
+    - 15.0
+    - 15.0
+    radius: 3.25
+    radius_name: m6
+    reason: tooth_root
+  outside_radius: 22.664311805232927
+  pitch_diameter: 45.83662361046586
+  print_spacing: 57.328623610465854
+  root_radius: 21.76431180523293
+  shaft_diameter: 10.4
+  shared_joining_fasteners: true
+  split: true
+  split_z: 0.75
+  style: mechanical_coupling_recessed
+  top: 4.25
+  upper_half_depth: 3.5
+belt_clearance: 0.5
+coupler:
+  bore: 5.0
+  count_screw_hole: 4.0
+  diameter_baseplate: 22.0
+  diameter_cylindrical: 10.0
+  diameter_screw_grub: 3.0
+  diameter_screw_hole: 3.0
+  dimension_d: 7.5
+  distance_diagonal_screw_hole: 16.0
+  flange_thickness: 2.0
+  height_cylindrical: 10.0
+  height_total: 12.0
+coupler_axial_clearance: 0.2
+coupler_bore: 5
+coupler_grub_screw_from_flange: 5
+coupler_mount_rotation: 45
+coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+coupler_radial_clearance: 0.2
+coupler_source: C:/od/OneDrive/docs/oomp_mechanical_coupler/source_file/dimension/flange/dimension.csv
+depth: 6
+description: GT2 72 teeth, 6 mm belt, mechanical coupling recessed
+diameter: 3
+flange_depth: 1
+flange_extension: 1
+id: oobb_part_timing_pulley_3_diameter_72_number_of_teeth_mechanical_coupling_recessed_6_depth_5_mm_bore
+joining_rotation: 45
+layout: print
+minimum_web: 1
+number_of_teeth: 72
+oobb_details:
+  allen_key_access_diameter: 4
+  belt_clearance: 0.5
+  coupler:
+    bore: 5.0
+    count_screw_hole: 4.0
+    diameter_baseplate: 22.0
+    diameter_cylindrical: 10.0
+    diameter_screw_grub: 3.0
+    diameter_screw_hole: 3.0
+    dimension_d: 7.5
+    distance_diagonal_screw_hole: 16.0
+    flange_thickness: 2.0
+    height_cylindrical: 10.0
+    height_total: 12.0
+  coupler_axial_clearance: 0.2
+  coupler_bore: 5
+  coupler_grub_screw_from_flange: 5
+  coupler_mount_rotation: 45
+  coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+  coupler_radial_clearance: 0.2
+  depth: 6
+  diameter: 3
+  flange_depth: 1
+  flange_extension: 1
+  joining_rotation: 45
+  layout: print
+  minimum_web: 1
+  number_of_teeth: 72
+  oobb_hole_minimum_web: 0.3
+  oobb_holes: true
+  oobb_name: timing_pulley
+  style: mechanical_coupling_recessed
+oobb_hole_minimum_web: 0.3
+oobb_holes: true
+style: mechanical_coupling_recessed
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: timing_pulley
+taxonomy_4: 3_diameter
+taxonomy_5: 72_number_of_teeth
+taxonomy_6: mechanical_coupling_recessed
+taxonomy_7: 6_depth
+taxonomy_8: 5_mm_bore
+taxonomy_9: ''

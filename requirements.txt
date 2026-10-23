@@ -1,0 +1,8 @@
+# Runtime also requires the locally installed OOBB v5 and OOMP v5 repositories.
+PyYAML
+solidpython2
+pytest
+trimesh
+numpy
+
+rtree

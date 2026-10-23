@@ -1,0 +1,75 @@
+- label: 606 radial +0.05 mm
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: idler_bearing_606
+    bearing_size: '606'
+    bearing_inner_diameter: 6
+    bearing_outer_diameter: 17
+    bearing_depth: 6
+    bearing_radial_clearance: 0.05
+    bearing_axial_clearance: 0.2
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: print
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 0
+  - 0
+  - 0
+- label: 606 radial +0.15 mm
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: idler_bearing_606
+    bearing_size: '606'
+    bearing_inner_diameter: 6
+    bearing_outer_diameter: 17
+    bearing_depth: 6
+    bearing_radial_clearance: 0.15
+    bearing_axial_clearance: 0.2
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: print
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 0
+  - -75
+  - 0
+- label: 606 radial +0.25 mm
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: idler_bearing_606
+    bearing_size: '606'
+    bearing_inner_diameter: 6
+    bearing_outer_diameter: 17
+    bearing_depth: 6
+    bearing_radial_clearance: 0.25
+    bearing_axial_clearance: 0.2
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: print
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 0
+  - -150
+  - 0

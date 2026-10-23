@@ -1,0 +1,85 @@
+- label: basic
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 0
+  - 0
+  - 0
+- label: idler_bearing_606
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: idler_bearing_606
+    bearing_size: '606'
+    bearing_inner_diameter: 6
+    bearing_outer_diameter: 17
+    bearing_depth: 6
+    bearing_radial_clearance: 0.15
+    bearing_axial_clearance: 0.2
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 62
+  - 0
+  - 0
+- label: coupler_recessed
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: mechanical_coupling_recessed
+    coupler:
+      bore: 5.0
+      diameter_baseplate: 22.0
+      diameter_cylindrical: 10.0
+      diameter_screw_grub: 3.0
+      diameter_screw_hole: 3.0
+      height_total: 12.0
+      height_cylindrical: 10.0
+      distance_diagonal_screw_hole: 16.0
+      flange_thickness: 2.0
+      count_screw_hole: 4.0
+      dimension_d: 7.5
+    coupler_bore: 5
+    coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+    coupler_radial_clearance: 0.2
+    coupler_axial_clearance: 0.2
+    coupler_grub_screw_from_flange: 5
+    coupler_mount_rotation: 45
+    allen_key_access_diameter: 4
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 124
+  - 0
+  - 0

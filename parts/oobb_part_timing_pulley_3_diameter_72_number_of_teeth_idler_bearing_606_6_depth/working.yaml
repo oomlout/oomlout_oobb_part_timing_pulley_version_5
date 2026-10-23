@@ -1,0 +1,397 @@
+assembled_dimensions:
+    additional_tooth_depth: 0.0
+    additional_tooth_width: 0.2
+    allen_key_access_diameter: 0
+    allen_key_access_z: 0
+    assembled_depth: 8.5
+    bearing_axial_clearance: 0.2
+    bearing_depth: 6.0
+    bearing_inner_diameter: 6.0
+    bearing_outer_diameter: 17.0
+    bearing_radial_clearance: 0.15
+    belt_bottom: -3.25
+    belt_center: 0
+    belt_depth: 6.5
+    belt_top: 3.25
+    bottom: -4.25
+    centre_hole_diameter: 12.0
+    centre_keepout: 8.65
+    coupler: {}
+    coupler_axial_clearance: 0.2
+    coupler_mount_rotation: 0
+    coupler_radial_clearance: 0.2
+    depth: 6.0
+    flange_depth: 1.0
+    flange_radius: 23.664311805232927
+    joining_head_radius: 3.6
+    joining_positions:
+    -   - 9.369164850721756
+        - 9.369164850721756
+    -   - -9.369164850721754
+        - 9.369164850721756
+    -   - -9.369164850721758
+        - -9.369164850721754
+    -   - 9.369164850721752
+        - -9.369164850721758
+    joining_rotation: 45.0
+    layout: print
+    lower_half_depth: 4.25
+    minimum_web: 1.0
+    mounting_head_radius: 3.6
+    mounting_positions: []
+    mounting_radius_name: m3
+    number_of_teeth: 72
+    oobb_hole_minimum_web: 0.3
+    oobb_hole_positions:
+    -   position:
+        - -15.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - 0.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -15.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 0.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 7.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - 0.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 15.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    oobb_holes: true
+    oobb_holes_excluded:
+    -   position:
+        - -15.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - -15.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - -7.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - -7.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - -7.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - 0.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - 0.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - 7.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - 7.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - 7.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+        reason: centre_feature
+    -   position:
+        - 15.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - 15.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    outside_radius: 22.664311805232927
+    pitch_diameter: 45.83662361046586
+    print_spacing: 57.328623610465854
+    root_radius: 21.76431180523293
+    shaft_diameter: 12.0
+    shared_joining_fasteners: false
+    split: true
+    split_z: 0
+    style: idler_bearing_606
+    top: 4.25
+    upper_half_depth: 4.25
+bearing_axial_clearance: 0.2
+bearing_depth: 6
+bearing_inner_diameter: 6
+bearing_outer_diameter: 17
+bearing_radial_clearance: 0.15
+bearing_size: '606'
+belt_clearance: 0.5
+bip_39_2_word_array:
+- august
+- cancel
+bip_39_2_word_no_space: augustcancel
+bip_39_2_word_space: august cancel
+bip_39_2_word_underscore: august_cancel
+bip_39_3_word_array:
+- august
+- cancel
+- elegant
+bip_39_3_word_no_space: augustcancelelegant
+bip_39_3_word_space: august cancel elegant
+bip_39_3_word_underscore: august_cancel_elegant
+bip_39_full_array:
+- august
+- cancel
+- elegant
+- narrow
+- direct
+- fashion
+- render
+- upon
+- panda
+- defense
+- fork
+- state
+bip_39_full_no_space: augustcancelelegantnarrowdirectfashionrenderuponpandadefenseforkstate
+bip_39_full_space: august cancel elegant narrow direct fashion render upon panda defense
+    fork state
+bip_39_full_underscore: august_cancel_elegant_narrow_direct_fashion_render_upon_panda_defense_fork_state
+depth: 6
+description: GT2 72 teeth, 6 mm belt, idler bearing 606
+diameter: 3
+directory: parts/oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+flange_depth: 1
+flange_extension: 1
+id: oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+id_no_class: oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+id_no_size: oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+id_no_type: oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+joining_rotation: 45
+layout: print
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+md5: 0f24251e4983e8a6ad87779f672d6dea
+md5_10: 0f24251e49
+md5_10_upper: 0F24251E49
+md5_5: 0f242
+md5_5_upper: 0F242
+md5_6: 0f2425
+md5_6_alpha: l9np
+md5_6_alpha_upper: L9NP
+md5_6_upper: 0F2425
+minimum_web: 1
+name: Oobb Part Timing Pulley 3 Diameter 72 Number Of Teeth Idler Bearing 606 6 Depth
+name_no_class: Oobb Part Timing Pulley 3 Diameter 72 Number Of Teeth Idler Bearing
+    606 6 Depth
+name_no_size: Oobb Part Timing Pulley 3 Diameter 72 Number Of Teeth Idler Bearing
+    606 6 Depth
+name_no_type: Oobb Part Timing Pulley 3 Diameter 72 Number Of Teeth Idler Bearing
+    606 6 Depth
+number_of_teeth: 72
+oobb_details:
+    bearing_axial_clearance: 0.2
+    bearing_depth: 6
+    bearing_inner_diameter: 6
+    bearing_outer_diameter: 17
+    bearing_radial_clearance: 0.15
+    bearing_size: '606'
+    belt_clearance: 0.5
+    depth: 6
+    diameter: 3
+    flange_depth: 1
+    flange_extension: 1
+    joining_rotation: 45
+    layout: print
+    minimum_web: 1
+    number_of_teeth: 72
+    oobb_hole_minimum_web: 0.3
+    oobb_holes: true
+    oobb_name: timing_pulley
+    style: idler_bearing_606
+oobb_hole_minimum_web: 0.3
+oobb_holes: true
+oomp_key: oomp_oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth
+style: idler_bearing_606
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: timing_pulley
+taxonomy_3_capital: Timing Pulley
+taxonomy_3_first_letter: t
+taxonomy_3_first_letter_upper: T
+taxonomy_3_length_1: t
+taxonomy_3_length_2: ti
+taxonomy_3_length_3: tim
+taxonomy_3_length_4: timi
+taxonomy_3_length_5: timin
+taxonomy_3_upper: TIMING_PULLEY
+taxonomy_3_upper_length_1: T
+taxonomy_3_upper_length_2: TI
+taxonomy_3_upper_length_3: TIM
+taxonomy_3_upper_length_4: TIMI
+taxonomy_3_upper_length_5: TIMIN
+taxonomy_4: 3_diameter
+taxonomy_4_capital: 3 Diameter
+taxonomy_4_first_letter: '3'
+taxonomy_4_first_letter_upper: '3'
+taxonomy_4_length_1: '3'
+taxonomy_4_length_2: '3_'
+taxonomy_4_length_3: 3_d
+taxonomy_4_length_4: 3_di
+taxonomy_4_length_5: 3_dia
+taxonomy_4_upper: 3_DIAMETER
+taxonomy_4_upper_length_1: '3'
+taxonomy_4_upper_length_2: '3_'
+taxonomy_4_upper_length_3: 3_D
+taxonomy_4_upper_length_4: 3_DI
+taxonomy_4_upper_length_5: 3_DIA
+taxonomy_5: 72_number_of_teeth
+taxonomy_5_capital: 72 Number Of Teeth
+taxonomy_5_first_letter: '7'
+taxonomy_5_first_letter_upper: '7'
+taxonomy_5_length_1: '7'
+taxonomy_5_length_2: '72'
+taxonomy_5_length_3: '72_'
+taxonomy_5_length_4: 72_n
+taxonomy_5_length_5: 72_nu
+taxonomy_5_upper: 72_NUMBER_OF_TEETH
+taxonomy_5_upper_length_1: '7'
+taxonomy_5_upper_length_2: '72'
+taxonomy_5_upper_length_3: '72_'
+taxonomy_5_upper_length_4: 72_N
+taxonomy_5_upper_length_5: 72_NU
+taxonomy_6: idler_bearing_606
+taxonomy_6_capital: Idler Bearing 606
+taxonomy_6_first_letter: i
+taxonomy_6_first_letter_upper: I
+taxonomy_6_length_1: i
+taxonomy_6_length_2: id
+taxonomy_6_length_3: idl
+taxonomy_6_length_4: idle
+taxonomy_6_length_5: idler
+taxonomy_6_upper: IDLER_BEARING_606
+taxonomy_6_upper_length_1: I
+taxonomy_6_upper_length_2: ID
+taxonomy_6_upper_length_3: IDL
+taxonomy_6_upper_length_4: IDLE
+taxonomy_6_upper_length_5: IDLER
+taxonomy_7: 6_depth
+taxonomy_7_capital: 6 Depth
+taxonomy_7_first_letter: '6'
+taxonomy_7_first_letter_upper: '6'
+taxonomy_7_length_1: '6'
+taxonomy_7_length_2: '6_'
+taxonomy_7_length_3: 6_d
+taxonomy_7_length_4: 6_de
+taxonomy_7_length_5: 6_dep
+taxonomy_7_upper: 6_DEPTH
+taxonomy_7_upper_length_1: '6'
+taxonomy_7_upper_length_2: '6_'
+taxonomy_7_upper_length_3: 6_D
+taxonomy_7_upper_length_4: 6_DE
+taxonomy_7_upper_length_5: 6_DEP
+taxonomy_8: ''
+taxonomy_9: ''

@@ -1,0 +1,810 @@
+additional_tooth_depth: 0
+additional_tooth_width: 0.2
+assembled_dimensions:
+    additional_tooth_depth: 0.0
+    additional_tooth_width: 0.2
+    allen_key_access_diameter: 0
+    allen_key_access_z: 0
+    assembled_depth: 11.5
+    bearing_axial_clearance: 0.2
+    bearing_radial_clearance: 0.15
+    belt_bottom: -4.75
+    belt_center: 0
+    belt_depth: 9.5
+    belt_top: 4.75
+    bottom: -5.75
+    centre_hole_diameter: 6.5
+    centre_keepout: 3.25
+    coupler: {}
+    coupler_axial_clearance: 0.2
+    coupler_mount_rotation: 0
+    coupler_radial_clearance: 0.2
+    depth: 9.0
+    flange_depth: 1.0
+    flange_radius: 46.58262361046586
+    joining_head_radius: 3.6
+    joining_positions:
+    -   - 5.550788232314398
+        - 5.550788232314398
+    -   - -5.550788232314397
+        - 5.550788232314398
+    -   - -5.550788232314399
+        - -5.550788232314397
+    -   - 5.550788232314397
+        - -5.550788232314399
+    joining_rotation: 45.0
+    layout: print
+    lower_half_depth: 5.75
+    minimum_web: 1.0
+    mounting_head_radius: 3.6
+    mounting_positions: []
+    mounting_radius_name: m3
+    number_of_teeth: 144
+    oobb_hole_minimum_web: 0.3
+    oobb_hole_positions:
+    -   position:
+        - -37.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -37.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -37.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -37.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -37.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -30.0
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -30.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -30.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -30.0
+        - 0.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -30.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -30.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -30.0
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - -30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -22.5
+        - 30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - -30.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -15.0
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -15.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - 0.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -15.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -15.0
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -15.0
+        - 30.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - -15.0
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - -30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - 30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - -7.5
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - -30.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 0.0
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 0.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 0.0
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 0.0
+        - 30.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 0.0
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - -30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - 30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 7.5
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - -30.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 15.0
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 15.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - 0.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 15.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 15.0
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 15.0
+        - 30.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 15.0
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - -30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 22.5
+        - 30.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 30.0
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 30.0
+        - -15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 30.0
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 30.0
+        - 0.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 30.0
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 30.0
+        - 15.0
+        radius: 3.25
+        radius_name: m6
+    -   position:
+        - 30.0
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 37.5
+        - -15.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 37.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 37.5
+        - 0.0
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 37.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+    -   position:
+        - 37.5
+        - 15.0
+        radius: 1.8
+        radius_name: m3
+    oobb_holes: true
+    oobb_holes_excluded:
+    -   position:
+        - -37.5
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - -37.5
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - -30.0
+        - -30.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - -30.0
+        - 30.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - -22.5
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - -22.5
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - -7.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+        reason: joining_fastener
+    -   position:
+        - -7.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+        reason: joining_fastener
+    -   position:
+        - 7.5
+        - -7.5
+        radius: 1.8
+        radius_name: m3
+        reason: joining_fastener
+    -   position:
+        - 7.5
+        - 7.5
+        radius: 1.8
+        radius_name: m3
+        reason: joining_fastener
+    -   position:
+        - 22.5
+        - -37.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - 22.5
+        - 37.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - 30.0
+        - -30.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - 30.0
+        - 30.0
+        radius: 3.25
+        radius_name: m6
+        reason: tooth_root
+    -   position:
+        - 37.5
+        - -22.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    -   position:
+        - 37.5
+        - 22.5
+        radius: 1.8
+        radius_name: m3
+        reason: tooth_root
+    outside_radius: 45.58262361046586
+    pitch_diameter: 91.67324722093171
+    print_spacing: 103.16524722093172
+    root_radius: 44.68262361046586
+    shaft_diameter: 6.5
+    shared_joining_fasteners: false
+    split: true
+    split_z: 0
+    style: basic
+    top: 5.75
+    upper_half_depth: 5.75
+belt_clearance: 0.5
+bip_39_2_word_array:
+- toy
+- parrot
+bip_39_2_word_no_space: toyparrot
+bip_39_2_word_space: toy parrot
+bip_39_2_word_underscore: toy_parrot
+bip_39_3_word_array:
+- toy
+- parrot
+- reject
+bip_39_3_word_no_space: toyparrotreject
+bip_39_3_word_space: toy parrot reject
+bip_39_3_word_underscore: toy_parrot_reject
+bip_39_full_array:
+- toy
+- parrot
+- reject
+- average
+- gasp
+- adult
+- ticket
+- typical
+- soon
+- fan
+- gossip
+- truth
+bip_39_full_no_space: toyparrotrejectaveragegaspadulttickettypicalsoonfangossiptruth
+bip_39_full_space: toy parrot reject average gasp adult ticket typical soon fan gossip
+    truth
+bip_39_full_underscore: toy_parrot_reject_average_gasp_adult_ticket_typical_soon_fan_gossip_truth
+depth: 9
+description: GT2 144 teeth, 9 mm belt, basic
+diameter: 6
+directory: parts/oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+flange_depth: 1
+flange_extension: 1
+id: oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+id_no_class: oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+id_no_size: oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+id_no_type: oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+joining_rotation: 45
+layout: print
+legacy_source: C:/gh/oomlout_oobb_version_4/oobb_make_sets.py:get_pulleys
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+md5: e6740ed387e60207b86f5fcf4a5993f4
+md5_10: e6740ed387
+md5_10_upper: E6740ED387
+md5_5: e6740
+md5_5_upper: E6740
+md5_6: e6740e
+md5_6_alpha: 8zpji
+md5_6_alpha_upper: 8ZPJI
+md5_6_upper: E6740E
+minimum_web: 1
+name: Oobb Part Timing Pulley 6 Diameter 144 Number Of Teeth Basic 9 Depth
+name_no_class: Oobb Part Timing Pulley 6 Diameter 144 Number Of Teeth Basic 9 Depth
+name_no_size: Oobb Part Timing Pulley 6 Diameter 144 Number Of Teeth Basic 9 Depth
+name_no_type: Oobb Part Timing Pulley 6 Diameter 144 Number Of Teeth Basic 9 Depth
+number_of_teeth: 144
+oobb_details:
+    additional_tooth_depth: 0
+    additional_tooth_width: 0.2
+    belt_clearance: 0.5
+    depth: 9
+    diameter: 6
+    flange_depth: 1
+    flange_extension: 1
+    joining_rotation: 45
+    layout: print
+    minimum_web: 1
+    number_of_teeth: 144
+    oobb_hole_minimum_web: 0.3
+    oobb_holes: true
+    oobb_name: timing_pulley
+    shaft_diameter: 6.5
+    style: basic
+oobb_hole_minimum_web: 0.3
+oobb_holes: true
+oomp_key: oomp_oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth
+shaft_diameter: 6.5
+style: basic
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: timing_pulley
+taxonomy_3_capital: Timing Pulley
+taxonomy_3_first_letter: t
+taxonomy_3_first_letter_upper: T
+taxonomy_3_length_1: t
+taxonomy_3_length_2: ti
+taxonomy_3_length_3: tim
+taxonomy_3_length_4: timi
+taxonomy_3_length_5: timin
+taxonomy_3_upper: TIMING_PULLEY
+taxonomy_3_upper_length_1: T
+taxonomy_3_upper_length_2: TI
+taxonomy_3_upper_length_3: TIM
+taxonomy_3_upper_length_4: TIMI
+taxonomy_3_upper_length_5: TIMIN
+taxonomy_4: 6_diameter
+taxonomy_4_capital: 6 Diameter
+taxonomy_4_first_letter: '6'
+taxonomy_4_first_letter_upper: '6'
+taxonomy_4_length_1: '6'
+taxonomy_4_length_2: '6_'
+taxonomy_4_length_3: 6_d
+taxonomy_4_length_4: 6_di
+taxonomy_4_length_5: 6_dia
+taxonomy_4_upper: 6_DIAMETER
+taxonomy_4_upper_length_1: '6'
+taxonomy_4_upper_length_2: '6_'
+taxonomy_4_upper_length_3: 6_D
+taxonomy_4_upper_length_4: 6_DI
+taxonomy_4_upper_length_5: 6_DIA
+taxonomy_5: 144_number_of_teeth
+taxonomy_5_capital: 144 Number Of Teeth
+taxonomy_5_first_letter: '1'
+taxonomy_5_first_letter_upper: '1'
+taxonomy_5_length_1: '1'
+taxonomy_5_length_2: '14'
+taxonomy_5_length_3: '144'
+taxonomy_5_length_4: '144_'
+taxonomy_5_length_5: 144_n
+taxonomy_5_upper: 144_NUMBER_OF_TEETH
+taxonomy_5_upper_length_1: '1'
+taxonomy_5_upper_length_2: '14'
+taxonomy_5_upper_length_3: '144'
+taxonomy_5_upper_length_4: '144_'
+taxonomy_5_upper_length_5: 144_N
+taxonomy_6: basic
+taxonomy_6_capital: Basic
+taxonomy_6_first_letter: b
+taxonomy_6_first_letter_upper: B
+taxonomy_6_length_1: b
+taxonomy_6_length_2: ba
+taxonomy_6_length_3: bas
+taxonomy_6_length_4: basi
+taxonomy_6_length_5: basic
+taxonomy_6_upper: BASIC
+taxonomy_6_upper_length_1: B
+taxonomy_6_upper_length_2: BA
+taxonomy_6_upper_length_3: BAS
+taxonomy_6_upper_length_4: BASI
+taxonomy_6_upper_length_5: BASIC
+taxonomy_7: 9_depth
+taxonomy_7_capital: 9 Depth
+taxonomy_7_first_letter: '9'
+taxonomy_7_first_letter_upper: '9'
+taxonomy_7_length_1: '9'
+taxonomy_7_length_2: '9_'
+taxonomy_7_length_3: 9_d
+taxonomy_7_length_4: 9_de
+taxonomy_7_length_5: 9_dep
+taxonomy_7_upper: 9_DEPTH
+taxonomy_7_upper_length_1: '9'
+taxonomy_7_upper_length_2: '9_'
+taxonomy_7_upper_length_3: 9_D
+taxonomy_7_upper_length_4: 9_DE
+taxonomy_7_upper_length_5: 9_DEP
+taxonomy_8: ''
+taxonomy_9: ''

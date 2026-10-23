@@ -1,0 +1,121 @@
+additional_tooth_depth: 0
+additional_tooth_width: 0.2
+assembled_dimensions:
+  additional_tooth_depth: 0.0
+  additional_tooth_width: 0.2
+  allen_key_access_diameter: 0
+  allen_key_access_z: 0
+  assembled_depth: 11.5
+  bearing_axial_clearance: 0.2
+  bearing_radial_clearance: 0.15
+  belt_bottom: -4.75
+  belt_center: 0
+  belt_depth: 9.5
+  belt_top: 4.75
+  bottom: -5.75
+  centre_hole_diameter: 6.5
+  centre_keepout: 3.25
+  coupler: {}
+  coupler_axial_clearance: 0.2
+  coupler_mount_rotation: 0
+  coupler_radial_clearance: 0.2
+  depth: 9.0
+  flange_depth: 1.0
+  flange_radius: 10.295296585513722
+  joining_head_radius: 3.6
+  joining_positions: []
+  joining_rotation: 45.0
+  layout: print
+  lower_half_depth: 5.75
+  minimum_web: 1.0
+  mounting_head_radius: 3.6
+  mounting_positions: []
+  mounting_radius_name: m3
+  number_of_teeth: 30
+  oobb_hole_minimum_web: 0.3
+  oobb_hole_positions: []
+  oobb_holes: true
+  oobb_holes_excluded:
+  - position:
+    - -7.5
+    - 0.0
+    radius: 1.8
+    radius_name: m3
+    reason: tooth_root
+  - position:
+    - 0.0
+    - -7.5
+    radius: 1.8
+    radius_name: m3
+    reason: tooth_root
+  - position:
+    - 0.0
+    - 7.5
+    radius: 1.8
+    radius_name: m3
+    reason: tooth_root
+  - position:
+    - 7.5
+    - 0.0
+    radius: 1.8
+    radius_name: m3
+    reason: tooth_root
+  outside_radius: 9.295296585513722
+  pitch_diameter: 19.098593171027442
+  print_spacing: 30.590593171027443
+  root_radius: 8.395296585513721
+  shaft_diameter: 6.5
+  shared_joining_fasteners: false
+  split: false
+  split_z: 0
+  style: basic
+  top: 5.75
+  upper_half_depth: 5.75
+belt_clearance: 0.5
+depth: 9
+description: GT2 30 teeth, 9 mm belt, basic
+diameter: 1
+flange_depth: 1
+flange_extension: 1
+id: oobb_part_timing_pulley_1_diameter_30_number_of_teeth_basic_9_depth
+joining_rotation: 45
+layout: print
+legacy_source: C:/gh/oomlout_oobb_version_4/oobb_make_sets.py:get_pulleys
+minimum_web: 1
+number_of_teeth: 30
+oobb_details:
+  additional_tooth_depth: 0
+  additional_tooth_width: 0.2
+  belt_clearance: 0.5
+  depth: 9
+  diameter: 1
+  flange_depth: 1
+  flange_extension: 1
+  joining_rotation: 45
+  layout: print
+  minimum_web: 1
+  number_of_teeth: 30
+  oobb_hole_minimum_web: 0.3
+  oobb_holes: true
+  oobb_name: timing_pulley
+  shaft_diameter: 6.5
+  style: basic
+oobb_hole_minimum_web: 0.3
+oobb_holes: true
+shaft_diameter: 6.5
+style: basic
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: timing_pulley
+taxonomy_4: 1_diameter
+taxonomy_5: 30_number_of_teeth
+taxonomy_6: basic
+taxonomy_7: 9_depth
+taxonomy_8: ''
+taxonomy_9: ''

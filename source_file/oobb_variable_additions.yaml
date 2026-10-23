@@ -1,0 +1,5 @@
+# OOBB mode order is laser, true, 3dpr. M4 was missing from countersunk data.
+# Nominal 8 mm head with 0.2 mm true allowance and 1.4 mm print allowance.
+screw_countersunk_radius_m4: [4.0, 4.1, 4.7]
+screw_countersunk_height_m4: [2.3, 2.3, 2.5]
+screw_countersunk_depth_m4: [2.3, 2.3, 2.5]

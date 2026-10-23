@@ -1,0 +1,220 @@
+- label: 16 teeth
+  parameters:
+    number_of_teeth: 16
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 0.6
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 1
+    oobb_name: timing_pulley
+  position:
+  - 5.838958178940651
+  - 0
+  - 0
+- label: 20 teeth
+  parameters:
+    number_of_teeth: 20
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 1
+    oobb_name: timing_pulley
+  position:
+  - 30.790114081557114
+  - 0
+  - 0
+- label: 24 teeth
+  parameters:
+    number_of_teeth: 24
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 1
+    oobb_name: timing_pulley
+  position:
+  - 58.2877490736439
+  - 0
+  - 0
+- label: 30 teeth
+  parameters:
+    number_of_teeth: 30
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 1
+    oobb_name: timing_pulley
+  position:
+  - 88.9684829275686
+  - 0
+  - 0
+- label: 36 teeth
+  parameters:
+    number_of_teeth: 36
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 1
+    oobb_name: timing_pulley
+  position:
+  - 123.4689354156988
+  - 0
+  - 0
+- label: 40 teeth
+  parameters:
+    number_of_teeth: 40
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 0.45
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 2
+    oobb_name: timing_pulley
+  position:
+  - 161.15248676566688
+  - 0
+  - 0
+- label: 48 teeth
+  parameters:
+    number_of_teeth: 48
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 2
+    oobb_name: timing_pulley
+  position:
+  - 202.65575674984046
+  - 0
+  - 0
+- label: 60 teeth
+  parameters:
+    number_of_teeth: 60
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 2
+    oobb_name: timing_pulley
+  position:
+  - 250.52522445768986
+  - 0
+  - 0
+- label: 72 teeth
+  parameters:
+    number_of_teeth: 72
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 3
+    oobb_name: timing_pulley
+  position:
+  - 306.0341294339503
+  - 0
+  - 0
+- label: 144 teeth
+  parameters:
+    number_of_teeth: 144
+    depth: 6
+    style: basic
+    shaft_diameter: 6.5
+    belt_clearance: 0.5
+    flange_depth: 1
+    flange_extension: 1
+    minimum_web: 1
+    additional_tooth_width: 0.2
+    additional_tooth_depth: 0
+    oobb_holes: true
+    oobb_hole_minimum_web: 0.3
+    joining_rotation: 45
+    layout: assembled
+    diameter: 6
+    oobb_name: timing_pulley
+  position:
+  - 388.2810648496491
+  - 0
+  - 0

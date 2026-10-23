@@ -1,0 +1,913 @@
+{
+  "part_count": 30,
+  "checks": [
+    "OpenSCAD hardwarnings",
+    "watertight",
+    "positive volume",
+    "expected connected parts",
+    "print bed Z=0",
+    "OOBB grid holes open at both faces and through the interior"
+  ],
+  "parts": [
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 313.259,
+      "bounds_mm": [
+        [
+          -5.83896,
+          -5.82744,
+          0.0
+        ],
+        [
+          5.83896,
+          5.82744,
+          8.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 389.782,
+      "bounds_mm": [
+        [
+          -5.83896,
+          -5.82744,
+          0.0
+        ],
+        [
+          5.83896,
+          5.82744,
+          11.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_20_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 679.338,
+      "bounds_mm": [
+        [
+          -7.1122,
+          -7.09816,
+          0.0
+        ],
+        [
+          7.1122,
+          7.09816,
+          8.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_20_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 877.125,
+      "bounds_mm": [
+        [
+          -7.1122,
+          -7.09816,
+          0.0
+        ],
+        [
+          7.1122,
+          7.09816,
+          11.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_24_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 1131.896,
+      "bounds_mm": [
+        [
+          -8.38544,
+          -8.36889,
+          0.0
+        ],
+        [
+          8.38544,
+          8.36889,
+          8.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_24_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 1481.486,
+      "bounds_mm": [
+        [
+          -8.38544,
+          -8.36889,
+          0.0
+        ],
+        [
+          8.38544,
+          8.36889,
+          11.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_30_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 1972.93,
+      "bounds_mm": [
+        [
+          -10.2953,
+          -10.27498,
+          0.0
+        ],
+        [
+          10.2953,
+          10.27498,
+          8.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_30_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 2607.498,
+      "bounds_mm": [
+        [
+          -10.2953,
+          -10.27498,
+          0.0
+        ],
+        [
+          10.2953,
+          10.27498,
+          11.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_36_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 2663.455,
+      "bounds_mm": [
+        [
+          -12.20516,
+          -12.18107,
+          0.0
+        ],
+        [
+          12.20516,
+          12.18107,
+          8.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_1_diameter_36_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 1,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 3529.921,
+      "bounds_mm": [
+        [
+          -12.20516,
+          -12.18107,
+          0.0
+        ],
+        [
+          12.20516,
+          12.18107,
+          11.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_40_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 2786.331,
+      "bounds_mm": [
+        [
+          -13.4784,
+          -13.4518,
+          0.0
+        ],
+        [
+          50.43518,
+          13.4518,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_40_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 3804.982,
+      "bounds_mm": [
+        [
+          -13.4784,
+          -13.4518,
+          0.0
+        ],
+        [
+          50.43518,
+          13.4518,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_48_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 4643.124,
+      "bounds_mm": [
+        [
+          -16.02487,
+          -15.99325,
+          0.0
+        ],
+        [
+          58.07462,
+          15.99325,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_48_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 6301.459,
+      "bounds_mm": [
+        [
+          -16.02487,
+          -15.99325,
+          0.0
+        ],
+        [
+          58.07462,
+          15.99325,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_60_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 8077.247,
+      "bounds_mm": [
+        [
+          -19.84459,
+          -19.80544,
+          0.0
+        ],
+        [
+          69.53378,
+          19.80544,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_60_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 4,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 10924.283,
+      "bounds_mm": [
+        [
+          -19.84459,
+          -19.80544,
+          0.0
+        ],
+        [
+          69.53378,
+          19.80544,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_60_number_of_teeth_idler_bearing_606_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 6990.739,
+      "bounds_mm": [
+        [
+          -19.84459,
+          -19.80544,
+          0.0
+        ],
+        [
+          69.53378,
+          19.80544,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_2_diameter_60_number_of_teeth_idler_bearing_606_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 0,
+        "m6": 0
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 9720.486,
+      "bounds_mm": [
+        [
+          -19.84459,
+          -19.80544,
+          0.0
+        ],
+        [
+          69.53378,
+          19.80544,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_3_diameter_72_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 12,
+        "m6": 4
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 10474.506,
+      "bounds_mm": [
+        [
+          -23.66431,
+          -23.61761,
+          0.0
+        ],
+        [
+          80.99294,
+          23.61761,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_3_diameter_72_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 12,
+        "m6": 4
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 14144.46,
+      "bounds_mm": [
+        [
+          -23.66431,
+          -23.61761,
+          0.0
+        ],
+        [
+          80.99294,
+          23.61761,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 8,
+        "m6": 4
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 9387.998,
+      "bounds_mm": [
+        [
+          -23.66431,
+          -23.61761,
+          0.0
+        ],
+        [
+          80.99294,
+          23.61761,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_3_diameter_72_number_of_teeth_idler_bearing_606_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 8,
+        "m6": 4
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 12940.663,
+      "bounds_mm": [
+        [
+          -23.66431,
+          -23.61761,
+          0.0
+        ],
+        [
+          80.99294,
+          23.61761,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_3_diameter_72_number_of_teeth_mechanical_coupling_recessed_6_depth_5_mm_bore",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": true,
+      "split_z_mm": 0.75,
+      "lower_half_depth_mm": 5.0,
+      "upper_half_depth_mm": 3.5,
+      "oobb_holes_per_pulley": {
+        "m3": 8,
+        "m6": 2
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 10744.473,
+      "bounds_mm": [
+        [
+          -23.66431,
+          -23.61761,
+          0.0
+        ],
+        [
+          80.99294,
+          23.61761,
+          5.0
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_3_diameter_72_number_of_teeth_mechanical_coupling_recessed_9_depth_5_mm_bore",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": true,
+      "split_z_mm": -0.75,
+      "lower_half_depth_mm": 5.0,
+      "upper_half_depth_mm": 6.5,
+      "oobb_holes_per_pulley": {
+        "m3": 8,
+        "m6": 2
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 14579.937,
+      "bounds_mm": [
+        [
+          -23.66431,
+          -23.61761,
+          0.0
+        ],
+        [
+          80.99294,
+          23.61761,
+          6.5
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 72,
+        "m6": 20
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 42426.548,
+      "bounds_mm": [
+        [
+          -46.58262,
+          -46.4907,
+          0.0
+        ],
+        [
+          149.74786,
+          46.4907,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_6_diameter_144_number_of_teeth_basic_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 72,
+        "m6": 20
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 57238.221,
+      "bounds_mm": [
+        [
+          -46.58262,
+          -46.4907,
+          0.0
+        ],
+        [
+          149.74786,
+          46.4907,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_6_diameter_144_number_of_teeth_idler_bearing_606_6_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 4.25,
+      "upper_half_depth_mm": 4.25,
+      "oobb_holes_per_pulley": {
+        "m3": 68,
+        "m6": 20
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 41340.04,
+      "bounds_mm": [
+        [
+          -46.58262,
+          -46.4907,
+          0.0
+        ],
+        [
+          149.74786,
+          46.4907,
+          4.25
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_6_diameter_144_number_of_teeth_idler_bearing_606_9_depth",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": false,
+      "split_z_mm": 0,
+      "lower_half_depth_mm": 5.75,
+      "upper_half_depth_mm": 5.75,
+      "oobb_holes_per_pulley": {
+        "m3": 68,
+        "m6": 20
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 56034.424,
+      "bounds_mm": [
+        [
+          -46.58262,
+          -46.4907,
+          0.0
+        ],
+        [
+          149.74786,
+          46.4907,
+          5.75
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_6_diameter_144_number_of_teeth_mechanical_coupling_recessed_6_depth_5_mm_bore",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 6,
+      "belt_channel_width_mm": 6.5,
+      "assembled_body_depth_mm": 8.5,
+      "shared_coupler_joining_screws": true,
+      "split_z_mm": 0.75,
+      "lower_half_depth_mm": 5.0,
+      "upper_half_depth_mm": 3.5,
+      "oobb_holes_per_pulley": {
+        "m3": 64,
+        "m6": 16
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 43029.188,
+      "bounds_mm": [
+        [
+          -46.58262,
+          -46.4907,
+          0.0
+        ],
+        [
+          149.74786,
+          46.4907,
+          5.0
+        ]
+      ]
+    },
+    {
+      "id": "oobb_part_timing_pulley_6_diameter_144_number_of_teeth_mechanical_coupling_recessed_9_depth_5_mm_bore",
+      "watertight": true,
+      "connected_parts": 2,
+      "nominal_belt_width_mm": 9,
+      "belt_channel_width_mm": 9.5,
+      "assembled_body_depth_mm": 11.5,
+      "shared_coupler_joining_screws": true,
+      "split_z_mm": -0.75,
+      "lower_half_depth_mm": 5.0,
+      "upper_half_depth_mm": 6.5,
+      "oobb_holes_per_pulley": {
+        "m3": 64,
+        "m6": 16
+      },
+      "joining_rotation_degrees": 45.0,
+      "volume_mm3": 58326.77,
+      "bounds_mm": [
+        [
+          -46.58262,
+          -46.4907,
+          0.0
+        ],
+        [
+          149.74786,
+          46.4907,
+          6.5
+        ]
+      ]
+    }
+  ]
+}

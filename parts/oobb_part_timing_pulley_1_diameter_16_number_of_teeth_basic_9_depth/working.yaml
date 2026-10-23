@@ -1,0 +1,245 @@
+additional_tooth_depth: 0
+additional_tooth_width: 0.2
+assembled_dimensions:
+    additional_tooth_depth: 0.0
+    additional_tooth_width: 0.2
+    allen_key_access_diameter: 0
+    allen_key_access_z: 0
+    assembled_depth: 11.5
+    bearing_axial_clearance: 0.2
+    bearing_radial_clearance: 0.15
+    belt_bottom: -4.75
+    belt_center: 0
+    belt_depth: 9.5
+    belt_top: 4.75
+    bottom: -5.75
+    centre_hole_diameter: 6.5
+    centre_keepout: 3.25
+    coupler: {}
+    coupler_axial_clearance: 0.2
+    coupler_mount_rotation: 0
+    coupler_radial_clearance: 0.2
+    depth: 9.0
+    flange_depth: 1.0
+    flange_radius: 5.838958178940651
+    joining_head_radius: 3.6
+    joining_positions: []
+    joining_rotation: 45.0
+    layout: print
+    lower_half_depth: 5.75
+    minimum_web: 0.6
+    mounting_head_radius: 3.6
+    mounting_positions: []
+    mounting_radius_name: m3
+    number_of_teeth: 16
+    oobb_hole_minimum_web: 0.3
+    oobb_hole_positions: []
+    oobb_holes: true
+    oobb_holes_excluded: []
+    outside_radius: 4.838958178940651
+    pitch_diameter: 10.185916357881302
+    print_spacing: 21.6779163578813
+    root_radius: 3.9389581789406507
+    shaft_diameter: 6.5
+    shared_joining_fasteners: false
+    split: false
+    split_z: 0
+    style: basic
+    top: 5.75
+    upper_half_depth: 5.75
+belt_clearance: 0.5
+bip_39_2_word_array:
+- forward
+- spot
+bip_39_2_word_no_space: forwardspot
+bip_39_2_word_space: forward spot
+bip_39_2_word_underscore: forward_spot
+bip_39_3_word_array:
+- forward
+- spot
+- brain
+bip_39_3_word_no_space: forwardspotbrain
+bip_39_3_word_space: forward spot brain
+bip_39_3_word_underscore: forward_spot_brain
+bip_39_full_array:
+- forward
+- spot
+- brain
+- lab
+- alley
+- sure
+- glare
+- hen
+- circle
+- height
+- 'off'
+- chalk
+bip_39_full_no_space: forwardspotbrainlaballeysureglarehencircleheightoffchalk
+bip_39_full_space: forward spot brain lab alley sure glare hen circle height off chalk
+bip_39_full_underscore: forward_spot_brain_lab_alley_sure_glare_hen_circle_height_off_chalk
+depth: 9
+description: GT2 16 teeth, 9 mm belt, basic
+diameter: 1
+directory: parts/oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+flange_depth: 1
+flange_extension: 1
+id: oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+id_no_class: oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+id_no_size: oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+id_no_type: oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+joining_rotation: 45
+layout: print
+legacy_source: C:/gh/oomlout_oobb_version_4/oobb_make_sets.py:get_pulleys
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+md5: 5bda586bbe0069b418b359292d566512
+md5_10: 5bda586bbe
+md5_10_upper: 5BDA586BBE
+md5_5: 5bda5
+md5_5_upper: 5BDA5
+md5_6: 5bda58
+md5_6_alpha: 3l0t4
+md5_6_alpha_upper: 3L0T4
+md5_6_upper: 5BDA58
+minimum_web: 0.6
+name: Oobb Part Timing Pulley 1 Diameter 16 Number Of Teeth Basic 9 Depth
+name_no_class: Oobb Part Timing Pulley 1 Diameter 16 Number Of Teeth Basic 9 Depth
+name_no_size: Oobb Part Timing Pulley 1 Diameter 16 Number Of Teeth Basic 9 Depth
+name_no_type: Oobb Part Timing Pulley 1 Diameter 16 Number Of Teeth Basic 9 Depth
+number_of_teeth: 16
+oobb_details:
+    additional_tooth_depth: 0
+    additional_tooth_width: 0.2
+    belt_clearance: 0.5
+    depth: 9
+    diameter: 1
+    flange_depth: 1
+    flange_extension: 1
+    joining_rotation: 45
+    layout: print
+    minimum_web: 0.6
+    number_of_teeth: 16
+    oobb_hole_minimum_web: 0.3
+    oobb_holes: true
+    oobb_name: timing_pulley
+    shaft_diameter: 6.5
+    style: basic
+oobb_hole_minimum_web: 0.3
+oobb_holes: true
+oomp_key: oomp_oobb_part_timing_pulley_1_diameter_16_number_of_teeth_basic_9_depth
+shaft_diameter: 6.5
+style: basic
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: timing_pulley
+taxonomy_3_capital: Timing Pulley
+taxonomy_3_first_letter: t
+taxonomy_3_first_letter_upper: T
+taxonomy_3_length_1: t
+taxonomy_3_length_2: ti
+taxonomy_3_length_3: tim
+taxonomy_3_length_4: timi
+taxonomy_3_length_5: timin
+taxonomy_3_upper: TIMING_PULLEY
+taxonomy_3_upper_length_1: T
+taxonomy_3_upper_length_2: TI
+taxonomy_3_upper_length_3: TIM
+taxonomy_3_upper_length_4: TIMI
+taxonomy_3_upper_length_5: TIMIN
+taxonomy_4: 1_diameter
+taxonomy_4_capital: 1 Diameter
+taxonomy_4_first_letter: '1'
+taxonomy_4_first_letter_upper: '1'
+taxonomy_4_length_1: '1'
+taxonomy_4_length_2: '1_'
+taxonomy_4_length_3: 1_d
+taxonomy_4_length_4: 1_di
+taxonomy_4_length_5: 1_dia
+taxonomy_4_upper: 1_DIAMETER
+taxonomy_4_upper_length_1: '1'
+taxonomy_4_upper_length_2: '1_'
+taxonomy_4_upper_length_3: 1_D
+taxonomy_4_upper_length_4: 1_DI
+taxonomy_4_upper_length_5: 1_DIA
+taxonomy_5: 16_number_of_teeth
+taxonomy_5_capital: 16 Number Of Teeth
+taxonomy_5_first_letter: '1'
+taxonomy_5_first_letter_upper: '1'
+taxonomy_5_length_1: '1'
+taxonomy_5_length_2: '16'
+taxonomy_5_length_3: '16_'
+taxonomy_5_length_4: 16_n
+taxonomy_5_length_5: 16_nu
+taxonomy_5_upper: 16_NUMBER_OF_TEETH
+taxonomy_5_upper_length_1: '1'
+taxonomy_5_upper_length_2: '16'
+taxonomy_5_upper_length_3: '16_'
+taxonomy_5_upper_length_4: 16_N
+taxonomy_5_upper_length_5: 16_NU
+taxonomy_6: basic
+taxonomy_6_capital: Basic
+taxonomy_6_first_letter: b
+taxonomy_6_first_letter_upper: B
+taxonomy_6_length_1: b
+taxonomy_6_length_2: ba
+taxonomy_6_length_3: bas
+taxonomy_6_length_4: basi
+taxonomy_6_length_5: basic
+taxonomy_6_upper: BASIC
+taxonomy_6_upper_length_1: B
+taxonomy_6_upper_length_2: BA
+taxonomy_6_upper_length_3: BAS
+taxonomy_6_upper_length_4: BASI
+taxonomy_6_upper_length_5: BASIC
+taxonomy_7: 9_depth
+taxonomy_7_capital: 9 Depth
+taxonomy_7_first_letter: '9'
+taxonomy_7_first_letter_upper: '9'
+taxonomy_7_length_1: '9'
+taxonomy_7_length_2: '9_'
+taxonomy_7_length_3: 9_d
+taxonomy_7_length_4: 9_de
+taxonomy_7_length_5: 9_dep
+taxonomy_7_upper: 9_DEPTH
+taxonomy_7_upper_length_1: '9'
+taxonomy_7_upper_length_2: '9_'
+taxonomy_7_upper_length_3: 9_D
+taxonomy_7_upper_length_4: 9_DE
+taxonomy_7_upper_length_5: 9_DEP
+taxonomy_8: ''
+taxonomy_9: ''
